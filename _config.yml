@@ -1,0 +1,48 @@
+# Site settings
+title:          Human-Centred Machine Learning
+description:    "University of Amsterdam Human-Centred Machine Learning Course"
+url:            "https://amsterdam-hcml.github.io"
+
+# Google Analytics
+#google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         Nanne van Noord
+  url:          https://nanne.github.io
+  email:        n.j.e.vannoord@uva.nl
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+#disqus:         jekyll-tale
+
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
