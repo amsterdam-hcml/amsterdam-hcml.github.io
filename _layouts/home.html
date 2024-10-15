@@ -8,7 +8,7 @@ layout: default
 
   <p>
     Every stage of building Machine Learning systems involves humans, from the data, to design, and deployment. Understanding this interaction with humans, as well as the influence (both intentionally and unintentionally) that humans may have on AI systems and AI systems on humans is at the core of Human-Centred Machine learning. 
-  </p>>
+  </p>
   <p> 
     The course will discuss how to design and build AI systems which prioritise and adapt to human needs and preferences, as well as considerations on whose values are being encoded and what trade-offs are being made will be discussed.
   </p>
@@ -19,7 +19,8 @@ layout: default
   <div class="catalogue-line"></div>
   <p>Schedule is not definitive and may change.</p>
   <p>
-    {% include schedule.md %}
+    {% capture s1 %}{% include schedule.md %}{% endcapture %}
+    {{ s1 | markdownify }}
   </p>
 </div>
 
@@ -30,6 +31,6 @@ layout: default
   <p>
     Students can use the <a href="https://canvas.uva.nl/courses/45957/discussion_topics" target="_blank">Canvas discussion board</a> or the lab sessions for course-related questions. 
     
-    For private/other matters you can contact the course coordinator Nanne van Noord ([n.j.e.vannoord@uva.nl](mailto:n.j.e.vannoord@uva.nl))
+    For private/other matters you can contact the course coordinator Nanne van Noord (<a href="mailto:n.j.e.vannoord@uva.nl">n.j.e.vannoord@uva.nl</a>)
   </p>
 </div>
