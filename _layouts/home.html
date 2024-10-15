@@ -18,10 +18,8 @@ layout: default
   <h1 class="catalogue-title">Schedule</h1>
   <div class="catalogue-line"></div>
   <p>Schedule is not definitive and may change.</p>
-  <p>
-    {% capture s1 %}{% include schedule.md %}{% endcapture %}
-    {{ s1 | markdownify }}
-  </p>
+  {% capture s1 %}{% include schedule.md %}{% endcapture %}
+  {{ s1 | markdownify }}
 </div>
 
 <div class="catalogue-item" id="contact">
