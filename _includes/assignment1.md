@@ -48,7 +48,7 @@ Following each presentation there will be a brief (2 minute) Q\&A.
 - Identification and discussion of limitations (30%)  
 - Quality and feasibility of recommendations (15%)
 
-** Suggested papers: ** 
+**Suggested Papers:** 
 
 * [VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.](https://openaccess.thecvf.com/content/CVPR2023/papers/Ke_VILA_Learning_Image_Aesthetics_From_User_Comments_With_Vision-Language_Pretraining_CVPR_2023_paper.pdf)
 * [Automatic Discovery of Meme Genres with Diverse Appearances.](https://cdn.aaai.org/ojs/18097/18097-28-21592-1-2-20210521.pdf)
