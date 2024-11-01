@@ -3,7 +3,7 @@
 | W | Date | Topic | Readings |
 | :---- | :---- | :---- | :---- |
 | 1 | 30 Oct | [Introduction Human Centred ML](https://docs.google.com/presentation/d/1EshJ3gHwupaydONXUZuCWt3N-EfaJMYqT8NRaxCyq3Q/edit?usp=sharing) | [Human-Centered AI and ML by Mark O. Riedl.](https://arxiv.org/abs/1901.11184)  |
-| 1 | 1 Nov | ML for social good <br/> * Guest lecture by Fernando Santos | [Introduction chapter of AI for Social Impact](https://ai4sibook.org/)  |
+| 1 | 1 Nov | [ML for social good](https://docs.google.com/presentation/d/1b5L4-FP6ilB8vhGTivj86imxlr5j7RsWzLXHfCDZEV4/edit?usp=sharing) <br/> * Guest lecture by Fernando Santos | [Introduction chapter of AI for Social Impact](https://ai4sibook.org/)  |
 | 2 | 6 Nov | Values in ML <br/> * Guest lecture Giovanni Sileno | {::nomarkdown}<ul><li>{:/}[The Values Encoded in Machine Learning Research by Abeba Birhane et al.](https://dl.acm.org/doi/abs/10.1145/3531146.3533083){::nomarkdown}</li><li>{:/}[Chapter 1 of Data Feminism by Catherine D'Ignazio and Lauren F. Klein](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4){::nomarkdown}</li></ul>{:/} |
 | 2 | 8 Nov | Benchmarking and Beyond | [Targeting the Benchmark by David Schlangen](https://arxiv.org/abs/2007.04792)   |
 | 3 | 13 Nov | Human-Centred Evaluation | [Towards Better User Studies in Computer Graphics and Vision by Zoya Bylinskii et al.](https://arxiv.org/abs/2206.11461)  |
