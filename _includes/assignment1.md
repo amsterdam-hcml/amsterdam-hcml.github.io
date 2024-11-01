@@ -50,21 +50,21 @@ Following each presentation there will be a brief (2 minute) Q\&A.
 
 ** Suggested papers: ** 
 
-* VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining. https://openaccess.thecvf.com/content/CVPR2023/papers/Ke_VILA_Learning_Image_Aesthetics_From_User_Comments_With_Vision-Language_Pretraining_CVPR_2023_paper.pdf
-* Automatic Discovery of Meme Genres with Diverse Appearances. https://cdn.aaai.org/ojs/18097/18097-28-21592-1-2-20210521.pdf
-* TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Model. https://arxiv.org/abs/2312.01261
-* Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney. https://arxiv.org/abs/2407.16292
-* When and why vision-language models behave like bags-of-words, and what to do about it? https://arxiv.org/abs/2210.01936
-* CheXclusion: Fairness gaps in deep chest X-ray classifiers https://arxiv.org/pdf/2003.00827
-* A Workbench for Autograding Retrieve/Generate Systems https://dl.acm.org/doi/10.1145/3626772.3657871
-* Mechanism Design for Large Language Models https://www2024.thewebconf.org/program/awards/
-* PAIR Diffusion: A Comprehensive Multimodal Object-Level Image Editor https://arxiv.org/pdf/2303.17546
-* AutoAD: Movie Description in Context https://openaccess.thecvf.com/content/CVPR2023/papers/Han_AutoAD_Movie_Description_in_Context_CVPR_2023_paper.pdf
-* LLAVAGUARD: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment https://arxiv.org/abs/2406.05113
-* Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You https://arxiv.org/abs/2401.16092
-* On Evaluating Adversarial Robustness of Large Vision-Language Models https://arxiv.org/abs/2305.16934
-* A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support https://arxiv.org/abs/2009.08441
-* RedCaps: web-curated image-text data created by the people, for the people https://arxiv.org/abs/2111.11431
-* Generative Agents: Interactive Simulacra of Human Behavior https://dl.acm.org/doi/10.1145/3586183.3606763
-* The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes https://proceedings.neurips.cc/paper/2020/hash/1b84c4cee2b8b3d823b30e2d604b1878-Abstract.html
-* Segment Anything https://ieeexplore.ieee.org/document/10378323
+* [VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining.](https://openaccess.thecvf.com/content/CVPR2023/papers/Ke_VILA_Learning_Image_Aesthetics_From_User_Comments_With_Vision-Language_Pretraining_CVPR_2023_paper.pdf)
+* [Automatic Discovery of Meme Genres with Diverse Appearances.](https://cdn.aaai.org/ojs/18097/18097-28-21592-1-2-20210521.pdf)
+* [TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Model.](https://arxiv.org/abs/2312.01261)
+* [Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney.](https://arxiv.org/abs/2407.16292)
+* [When and why vision-language models behave like bags-of-words, and what to do about it?](https://arxiv.org/abs/2210.01936)
+* [CheXclusion: Fairness gaps in deep chest X-ray classifiers](https://arxiv.org/pdf/2003.00827)
+* [A Workbench for Autograding Retrieve/Generate Systems](https://dl.acm.org/doi/10.1145/3626772.3657871)
+* [Mechanism Design for Large Language Models](https://www2024.thewebconf.org/program/awards/)
+* [PAIR Diffusion: A Comprehensive Multimodal Object-Level Image Editor](https://arxiv.org/pdf/2303.17546)
+* [AutoAD: Movie Description in Context](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_AutoAD_Movie_Description_in_Context_CVPR_2023_paper.pdf)
+* [LLAVAGUARD: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment](https://arxiv.org/abs/2406.05113)
+* [Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You](https://arxiv.org/abs/2401.16092)
+* [On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934)
+* [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://arxiv.org/abs/2009.08441)
+* [RedCaps: web-curated image-text data created by the people, for the people](https://arxiv.org/abs/2111.11431)
+* [Generative Agents: Interactive Simulacra of Human Behavior](https://dl.acm.org/doi/10.1145/3586183.3606763)
+* [The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://proceedings.neurips.cc/paper/2020/hash/1b84c4cee2b8b3d823b30e2d604b1878-Abstract.html)
+* [Segment Anything](https://ieeexplore.ieee.org/document/10378323)
