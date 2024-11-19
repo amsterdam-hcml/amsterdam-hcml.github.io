@@ -18,10 +18,10 @@ Identify a specific social good problem you find compelling. This could relate t
 Choose a research topic related to HCML, aligning it with your chosen social good problem. For example:
 
 - **Active Learning:** Can be used to identify the most informative data points for human annotation in areas like medical diagnosis or disaster response.  
-  - **Learning from Crowdsourcing:** Useful for gathering and incorporating noisy labels from human volunteers for tasks like image classification in environmental monitoring projects.  
-  - **Reinforcement Learning from Human Feedback (RLHF):** Training AI assistants for social workers or educators through human-provided feedback.  
-  - **Semi-supervised Learning:** Combining labelled data from experts with large amounts of unlabeled data to improve models for tasks like early disease detection in healthcare.  
-  - **Machine Teaching**: An existing ML pipeline for a social good problem can be evaluated and analysed through (interactive) Machine Teaching.
+- **Learning from Crowdsourcing:** Useful for gathering and incorporating noisy labels from human volunteers for tasks like image classification in environmental monitoring projects.  
+- **Reinforcement Learning from Human Feedback (RLHF):** Training AI assistants for social workers or educators through human-provided feedback.  
+- **Semi-supervised Learning:** Combining labelled data from experts with large amounts of unlabeled data to improve models for tasks like early disease detection in healthcare.  
+- **Machine Teaching**: An existing ML pipeline for a social good problem can be evaluated and analysed through (interactive) Machine Teaching.
 
 
 3. **Experimental Design:**
@@ -35,8 +35,8 @@ Compare the performance of your chosen technique against a reasonable baseline (
 Analyse the results of your experiment, considering the human-centred aspects of the chosen technique in relation to your social good problem. This could involve:
 
 - **Impact of human effort:** Evaluate the efficiency of the technique in terms of human labelling or feedback requirements, considering volunteer burden reduction in social good initiatives.  
-  - **Fairness and bias:** Consider potential biases in the data or the technique's impact on different user groups, ensuring equitable access to social good applications.  
-  - **Interpretability:** Analyse how well the technique's results can be explained to non-technical stakeholders involved in the HCML application for social good.
+- **Fairness and bias:** Consider potential biases in the data or the technique's impact on different user groups, ensuring equitable access to social good applications.  
+- **Interpretability:** Analyse how well the technique's results can be explained to non-technical stakeholders involved in the HCML application for social good.
 
 Discuss the potential social impact of your chosen HCML technique within the context of your social good problem. Consider how it could improve existing or contribute to new solutions.
 
