@@ -26,9 +26,11 @@ Choose a research topic related to HCML, aligning it with your chosen social goo
 
 3. **Experimental Design:**
 
-Select a specific technique within your chosen research topic. Design an experiment to evaluate the chosen technique on a new dataset relevant to your chosen social good problem.
+Select a specific technique within your chosen research topic. Design an experiment to evaluate the chosen technique on a dataset relevant to your chosen social good problem. 
 
 Compare the performance of your chosen technique against a reasonable baseline (e.g., majority voting for crowdsourcing, random acquisition for active learning).
+
+The aim here is not to reproduce an existing paper, so the chosen technique should not have been applied to that dataset yet (you don't have to exhaustively check all literature for this, but it should not be a typical approach for this dataset at least). You can choose an existing paper and use their approach as the baseline and compare it to a human-centred technique.
 
 4. **Human-Centred Analysis:**
 
