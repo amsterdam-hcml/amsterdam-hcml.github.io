@@ -51,14 +51,14 @@ Discuss the potential social impact of your chosen HCML technique within the con
      - Summary of the findings, with a focus on human-centred aspects (efficiency, fairness, interpretability) and potential social impact.  
      - **The slidedeck should be submitted on Canvas December 16, EOD**.  
    - Oral evaluation (on December 18):  
-     - In a 15 minute session you will briefly (5-7 minutes) pitch your project, using the slide deck.  
+     - In a 20 minute session you will briefly (7-10 minutes) pitch your project, using the slide deck.  
      - A Q\&A will follow your pitch focused on probing your understanding of the project and the individual contributions.
 
 **Requirements**:
 
 - Presentation should be submitted as a single PDF (16:9 aspect ratio).  
 - Maximum 5 slides.  
-- Oral presentation maximum 7 minutes.
+- Oral presentation maximum 10 minutes.
 
 **Grading Rubric:**
 
