@@ -29,7 +29,7 @@ defaults:
       #permalink: :title
       edition: 2025
   - scope:
-      path: 2024
+      path: "2024"
       type: pages 
     values:
       layout: /2024/default
