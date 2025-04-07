@@ -25,7 +25,7 @@ defaults:
       type: "pages"
     values:
       layout: "2025/default"
-      permalink: /:title
+      permalink: :title
       edition: "2025"
   -
     scope:
