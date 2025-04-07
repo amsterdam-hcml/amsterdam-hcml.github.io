@@ -25,7 +25,7 @@ defaults:
       type: "pages"
     values:
       layout: "2025/default"
-      permalink: /:slug
+      permalink: /:title
       edition: "2025"
   -
     scope:
@@ -33,7 +33,7 @@ defaults:
       type: "pages" 
     values:
       layout: "2024/default" 
-      permalink: /2024/:slug
+      permalink: /2024/:title
       edition: "2024"
 
 # Assets
