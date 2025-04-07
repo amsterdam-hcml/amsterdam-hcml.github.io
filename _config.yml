@@ -36,21 +36,20 @@ defaults:
       permalink: /2024/:slug
       edition: "2024"
 
-
 # Assets
 sass:
   sass_dir:     _sass
   style:        compressed
 
 # Gems
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+#plugins:
+  #- jekyll-feed
+  #- jekyll-paginate
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+#permalink:      /:year-:month-:day/:title
+#paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
@@ -60,9 +59,5 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 remote_theme: chesterhow/tale
 
-permalink:    /:year-:month-:day/:title
-paginate:     5
-
 plugins:
-  - jekyll-paginate
   - jekyll-remote-theme
