@@ -18,6 +18,23 @@ include:
   - _pages
   - 2024
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "2025/default"
+      permalink: :slug
+  -
+    scope:
+      path: "2024"
+      type: "pages" 
+    values:
+      layout: "2024/default" 
+      permalink: 2024:slug
+
+
 # Assets
 sass:
   sass_dir:     _sass
