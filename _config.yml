@@ -17,6 +17,7 @@ markdown:       kramdown
 include:
   - _pages
   - 2024
+  - 2024/_pages
 
 # Assets
 sass:
