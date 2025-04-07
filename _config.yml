@@ -18,7 +18,7 @@ include:
   - _pages
   - 2024
 
-permalink: :title
+permalink: :slug
 
 defaults:
   -
