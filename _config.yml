@@ -26,7 +26,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "/2025/default"
+      layout: /2025/default
       #permalink: :title
       edition: "2025"
   -
@@ -34,8 +34,8 @@ defaults:
       path: "2024"
       type: "pages" 
     values:
-      layout: "/2024/default" 
-      permalink: /2024/:title
+      layout: /2024/default
+      #permalink: /2024/:title
       edition: "2024"
 
 # Assets
