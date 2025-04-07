@@ -18,7 +18,7 @@ title: Home
     <h1 class="catalogue-title">Schedule</h1>
     <div class="catalogue-line"></div>
     <p>Schedule is not definitive and may change.</p>
-    {% capture s1 %}{% include schedule.md %}{% endcapture %}
+    {% capture s1 %}{% include {{ page.edition }}/schedule.md %}{% endcapture %}
     {{ s1 | markdownify }}
   </div>
   
