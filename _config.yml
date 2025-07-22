@@ -3,55 +3,46 @@ title:          Human-Centred Machine Learning
 description:    "University of Amsterdam Human-Centred Machine Learning Course"
 url:            "https://amsterdam-hcml.github.io"
 
+# Google Analytics
+#google_analytics: UA—XXXXXXXX-X
+
 # Author
 author:
   name:         Nanne van Noord
   url:          https://nanne.github.io
   email:        n.j.e.vannoord@uva.nl
 
-remote_theme: chesterhow/tale
-
-plugins:
-  - jekyll-remote-theme
-
 # Build settings
 markdown:       kramdown
 include:
   - _pages
-  - 2024
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: 2025/default
-      permalink: /:basename
-      edition: 2025
-      baseurl: ""
-  - scope:
-      path: "assets"
-    values:
-      baseurl: ""
-      permalink: /assets/:basename
-  - scope:
-      path: "2024"
-    values:
-      layout: 2024/default
-      permalink: /2024/:basename
-      edition: 2024
-      baseurl: "/2024"
-  - scope:
-      path: "2024/assets"
-    values:
-      baseurl: ""
-      permalink: /2024/assets/:basename
-  
 
 # Assets
 sass:
   sass_dir:     _sass
   style:        compressed
 
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+#disqus:         jekyll-tale
+
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme

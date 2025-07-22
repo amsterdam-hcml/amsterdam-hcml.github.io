@@ -1,6 +1,8 @@
 ---
+layout: default
 title: "Project"
+permalink: /project
 ---
 
-{% capture s1 %}{% include {{ page.edition }}/project.md %}{% endcapture %}
+{% capture s1 %}{% include project.md %}{% endcapture %}
 {{ s1 | markdownify }}
