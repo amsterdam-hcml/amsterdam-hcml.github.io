@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Assignment 1"
-permalink: /assignment1
+title: "Assignment"
+permalink: /assignment
 ---
 
 {% capture s1 %}{% include assignment.md %}{% endcapture %}
