@@ -1,4 +1,4 @@
-# Project (30%)
+# Project (40%)
 
 **Submission deadline: December 12, 2025 EOD**
 

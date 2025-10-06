@@ -26,7 +26,7 @@ All assignments and the final project will be done in groups of 3-4 students (th
 
 ## Assignment (20%): Panel Discussion
 
-During the lab session of November 7th (group 1-10) or November 14th (group 11-20) you and your group will be expected to engage in a panel discussion with two other groups. 
+During the lab session of November 7th (group 1-9) or November 14th (group 10-18) you and your group will be expected to engage in a panel discussion with two other groups. 
 
 Note: you are expected to be present for the entire lab session your group is scheduled in, not doing so may impact your grade.
 

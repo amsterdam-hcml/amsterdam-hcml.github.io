@@ -1,4 +1,4 @@
-### Assignment 1: Panel Discussion
+### Assignment: Panel Discussion
 
 The panel discussions will be during the lab sessions on **November 7 and 14**. You are expected to be present for the entire lab session your group is scheduled in, not doing so may impact your grade.
 
@@ -16,7 +16,7 @@ Three possible lens (with example questions to ask yourself):
 To prepare for this assignment you will need to:
 1. Read and critically analyse the paper
 2. Identify the strengths and weaknesses of the paper (with respect to your lens)
-3. Write up your **discussion preparation notes** and submit them on Canvas on the day before your assigned lab session.
+3. Write up your **discussion preparation notes** and submit them on Canvas on the day of your assigned lab session.
     - A key part of these preparation notes will be the points you want to raise in your opening statements. 
     - These notes are expected to be 700-800 words maximum, and are meant to highlight your key take-aways from the paper.
 
