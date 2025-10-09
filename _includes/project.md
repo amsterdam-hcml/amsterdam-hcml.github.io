@@ -56,7 +56,7 @@ The aim of the assignment is not to literally reproduce an existing paper. The c
 - See where the performance of behavior cloning breaks down as the state space grows in size. 
 - Compare the performance of reinforcement learning from human feedback (RLHF) using an increasing number of ranked data points (e.g. pairs vs triplets vs quadruplets, etc). 
 - Experiment with RLHF under noisy rankings and/or implement a model of the noisy labelers. 
-- Experiment with a semi-supervised version of active learning, RLHR, behavior cloning, etc.
+- Experiment with a semi-supervised version of active learning, RLHF, behavior cloning, etc.
 
 ### 4. **Human-Centred Analysis:**
 
@@ -69,7 +69,7 @@ Analyse the results of your experiment, considering the human-centred aspects of
 Discuss the potential social impact of your chosen HCML technique within the context of your dataset and task. Consider how it could improve existing or contribute to new solutions, and how it benefits the human users.
 
 ### 5. **Deliverables:**  
-   - Presentation slide deck with 7 slides:  
+   - Presentation slide deck with at least the following 7 slides:  
      - Title slide (with names of group members and project title); you can add a teaser figure or project summary here.  
      - Slide on the chosen dataset and its relevance; what are the user needs?  
      - Slide on the human evaluation scenario; what is the scenario and what are the user personas?
@@ -85,7 +85,7 @@ Discuss the potential social impact of your chosen HCML technique within the con
 **Requirements**:
 
 - Presentation should be submitted as a single PDF (16:9 aspect ratio).  
-- Maximum 6 slides.  
+- Maximum 10 slides.  
 - Oral presentation maximum 10 minutes.
 
 **Grading Rubric:**

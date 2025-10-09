@@ -11,7 +11,7 @@ The aim of this assignment is to critically analyse an ML research paper from a 
 Three possible lens (with example questions to ask yourself):
 - **Data & Fairness lens**: Who is represented in the data? Who might be excluded or misrepresented? What biases might exist? Whose perspectives shaped data collection?
 - **User Interaction & Deployment lens**: Who will use this system and how? Is it interpretable/explainable? Can users trust it? What happens when it fails? What expertise do users need?
-- **Societal Implication lens**: Who benefits and who might be harmed? What poser dynamics does it create or reinforce? What are unintended consequences? Who isn't at the table?
+- **Societal Implication lens**: Who benefits and who might be harmed? Which dynamics does it create or reinforce? What are unintended consequences? Who isn't at the table?
 
 To prepare for this assignment you will need to:
 1. Read and critically analyse the paper
