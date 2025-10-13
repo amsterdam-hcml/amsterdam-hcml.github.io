@@ -3,7 +3,7 @@
 **Academic Year**: 2025-2026   
 **Course catalogue number**: 5204HCML6Y   
 **Course Coordinator**: Nanne van Noord ([n.j.e.vannoord@uva.nl](mailto:n.j.e.vannoord@uva.nl))   
-**Teaching Assistants**: Wangyuan Ding, Selina Khan, Piera Riccio   
+**Teaching Assistants**: Wangyuan Ding, Selina Khan, Piera Riccio, Mina Ghadimiatigh   
 **Contact**: Please use the Canvas discussion board or the lab sessions for course-related questions. For private matters you can contact the course coordinator or a TA.
 
 # Course Content & Objectives
