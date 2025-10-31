@@ -36,3 +36,9 @@ During the discussion:
 - Clarity and accuracy of group's discussion contributions (25%)  
 - Professionalism and Collegiality (15%)
 - Active participation in discussion (15%)
+
+**Paper list November 7**
+
+* [MLLM-as-a-Judge for Image Safety without Human Labeling](https://openaccess.thecvf.com//content/CVPR2025/papers/Wang_MLLM-as-a-Judge_for_Image_Safety_without_Human_Labeling_CVPR_2025_paper.pdf)
+* [FRoundation: Are foundation models ready for face recognition?](https://www.sciencedirect.com/science/article/pii/S0262885625000411)
+* [CDEval: A Benchmark for Measuring the Cultural Dimensions of Large Language Models](https://aclanthology.org/2024.c3nlp-1.1/)
