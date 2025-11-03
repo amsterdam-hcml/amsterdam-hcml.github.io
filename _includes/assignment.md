@@ -2,7 +2,7 @@
 
 The panel discussions will be during the lab sessions on **November 7 and 14**. You are expected to be present for the entire lab session your group is scheduled in, not doing so may impact your grade.
 
-Make sure to submit your discussion preparation notes (as a PDF file) on Canvas \- not submitting the notes may result in a failing grade.
+Make sure to submit your team's discussion preparation notes (as a PDF file) on Canvas \- not submitting the notes may result in a failing grade.
 
 **Objective:**
 
@@ -36,6 +36,8 @@ During the discussion:
 - Clarity and accuracy of group's discussion contributions (25%)  
 - Professionalism and Collegiality (15%)
 - Active participation in discussion (15%)
+
+Grading form: [Canvas Link](https://canvas.uva.nl/courses/53165/files?preview=14135484)
 
 **Paper list November 7**
 
