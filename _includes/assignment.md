@@ -37,7 +37,7 @@ During the discussion:
 - Professionalism and Collegiality (15%)
 - Active participation in discussion (15%)
 
-Grading form: [Canvas Link](https://canvas.uva.nl/courses/53165/files?preview=14135484)
+Grading form: [Canvas Link](https://canvas.uva.nl/courses/53165/files/14135484?module_item_id=2665442)
 
 **Paper list November 7**
 
