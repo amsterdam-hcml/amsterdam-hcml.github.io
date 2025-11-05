@@ -10,7 +10,7 @@
 | 5 | 25 Nov | Machine Teaching | {::nomarkdown}<ul><li>{:/}[DATACOMP by Samir Yitzhak Gadre et al.](https://arxiv.org/pdf/2304.14108){::nomarkdown}</li> <li>{:/}[Machine Teaching by Xiaojin Zhu ](https://ojs.aaai.org/index.php/AAAI/article/view/9761) {::nomarkdown}</li></ul>{:/} |
 | 5 | 28 Nov | (Inter)Active Learning <br/> * Guest lecture by Marcel Worring | {::nomarkdown}<ul><li>{:/}[Human-Centered Machine Learning Through Interactive Visualization by Dominik Sacha et al.](https://www.esann.org/sites/default/files/proceedings/legacy/es2016-166.pdf){::nomarkdown}</li><li>{:/}[Human-in-the-loop machine learning: a state of the art by Eduardo Mosqueira-Rey et al.](https://link.springer.com/article/10.1007/s10462-022-10246-w){::nomarkdown}</li><li>{:/}[Active Learning Literature Survey by Burr Settles](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1){::nomarkdown}</li></ul>{:/} |
 | 6 | 2 Dec | Human Feedback | [A Survey of Preference-Based Reinforcement Learning Methods by Christian Wirth et al.](https://jmlr.org/papers/v18/16-634.html) |
-| 6 | 5 Dec | Preference Tuning | TBA |
+| 6 | 5 Dec | Preference Tuning | [Direct preference optimization: your language model is secretly a reward model by Rafael Rafailov et al.](https://dl.acm.org/doi/10.5555/3666122.3668460) |
 | 7 | 9 Dec | ML for social good <br/> * Guest lecture by Piera Riccio | [Introduction chapter of AI for Social Impact](https://ai4sibook.org/)  |
 | 7 | 12 Dec | Culture <br/> \+ exam review | TBA |
 | 8 | 16 Dec | Project Presentations |  |
