@@ -44,3 +44,9 @@ Grading form: [Canvas Link](https://canvas.uva.nl/courses/53165/files/14135484?m
 * [MLLM-as-a-Judge for Image Safety without Human Labeling](https://openaccess.thecvf.com//content/CVPR2025/papers/Wang_MLLM-as-a-Judge_for_Image_Safety_without_Human_Labeling_CVPR_2025_paper.pdf)
 * [FRoundation: Are foundation models ready for face recognition?](https://www.sciencedirect.com/science/article/pii/S0262885625000411)
 * [CDEval: A Benchmark for Measuring the Cultural Dimensions of Large Language Models](https://aclanthology.org/2024.c3nlp-1.1/)
+
+**Paper list November 14**
+
+* [Humanity's Last Exam](https://arxiv.org/abs/2501.14249)
+* [Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images](https://boyangdeng.com/visual-chronicles/)
+* [UniverSeg: Universal Medical Image Segmentation](https://universeg.csail.mit.edu/)
