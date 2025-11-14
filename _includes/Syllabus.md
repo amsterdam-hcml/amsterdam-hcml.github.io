@@ -4,7 +4,7 @@
 **Course catalogue number**: 5204HCML6Y   
 **Course Coordinator**: Nanne van Noord ([n.j.e.vannoord@uva.nl](mailto:n.j.e.vannoord@uva.nl))   
 **Teaching Assistants**: Wangyuan Ding, Selina Khan, Piera Riccio, Mina Ghadimiatigh   
-**Contact**: Please use the Canvas discussion board or the lab sessions for course-related questions. For private matters you can contact the course coordinator or a TA.
+**Contact**: Please use the lab sessions for course-related questions. For private matters you can contact the course coordinator or a TA.
 
 # Course Content & Objectives
 
@@ -64,4 +64,6 @@ All information on what the UvA considers plagiarism and the procedures involved
 
 ## Social Safety
 
-The University of Amsterdam (UvA) is committed to fostering a positive working and study environment where interactions are respectful, no one feels unsafe, and everyone has the opportunity to develop their talents. We aim to ensure that everyone has a secure foundation for work or study, including when difficult or critical conversations are necessary. If needed, you can report inappropriate behaviour to instructors, academic advisors, the Program Director, and/or confidential advisors. For more information, the Code of Conduct, and the various services available to students, please visit the UvA's [Social Safety page](https://www.uva.nl/en/about-the-uva/about-the-university/social-safety/social-safety.html).  
+The University of Amsterdam (UvA) is committed to fostering a positive working and study environment where interactions are respectful, no one feels unsafe, and everyone has the opportunity to develop their talents. We aim to ensure that everyone has a secure foundation for work or study, including when difficult or critical conversations are necessary. 
+
+If needed, you can report inappropriate behaviour to instructors, academic advisors, the Program Director, and/or confidential advisors. For more information, the Code of Conduct, and the various services available to students, please visit the UvA's [Social Safety page](https://www.uva.nl/en/about-the-uva/about-the-university/social-safety/social-safety.html).  
