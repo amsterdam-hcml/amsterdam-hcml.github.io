@@ -94,3 +94,5 @@ Discuss the potential social impact of your chosen HCML technique within the con
 - Pitch clarity (10%)  
 - Experimental Setup and Execution (40%)  
 - Accuracy and clarity during Q\&A (40%)
+
+Full rubric: [Canvas Link](https://canvas.uva.nl/courses/53165/files/14303515?module_item_id=2686748)
