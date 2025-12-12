@@ -12,6 +12,6 @@
 | 6 | 2 Dec | [Human Feedback](https://docs.google.com/presentation/d/1MZYd3SjpQzSHF3MuVwyF3dR6eZH6-e59YxfRHyH9_5E/edit?usp=sharing) | [A Survey of Preference-Based Reinforcement Learning Methods by Christian Wirth et al.](https://jmlr.org/papers/v18/16-634.html) |
 | 6 | 5 Dec | [Preference Tuning](https://docs.google.com/presentation/d/1k3N08xwgh7R-od1A05AEZ8OMhULWCJithV5bRrbasa0/edit?usp=sharing) | [Direct preference optimization: your language model is secretly a reward model by Rafael Rafailov et al.](https://dl.acm.org/doi/10.5555/3666122.3668460) |
 | 7 | 9 Dec | Lecture Canceled | <https://www.fnv.nl/cao-sector/overheid/onderwijs-onderzoek/kabinet-sloopt-hoger-onderwijs?lang=en-US> |
-| 7 | 12 Dec | ML for social good <br/> * Guest lecture by Piera Riccio  <br/> \+ exam review | [Introduction chapter of AI for Social Impact](https://ai4sibook.org/)  |
+| 7 | 12 Dec | [ML for social good <br/> * Guest lecture by Piera Riccio](https://docs.google.com/presentation/d/1QKqxrMBjRdxtmSOShEedEPNJ_vjRiIrWnUTr6pPRy5k/edit?usp=sharing)  <br/> \+ [exam review](https://canvas.uva.nl/courses/53165/files/14468318?module_item_id=2734321) | [Introduction chapter of AI for Social Impact](https://ai4sibook.org/)  |
 | 8 | 16 Dec | Project Presentations |  |
 | 7 | 19 Dec | Exam |  |
