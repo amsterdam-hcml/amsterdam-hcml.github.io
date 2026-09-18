@@ -1,9 +1,9 @@
 # Human-Centred Machine Learning
 
-**Academic Year**: 2025-2026   
+**Academic Year**: 2026-2027
 **Course catalogue number**: 5204HCML6Y   
-**Course Coordinator**: Nanne van Noord ([n.j.e.vannoord@uva.nl](mailto:n.j.e.vannoord@uva.nl))   
-**Teaching Assistants**: Wangyuan Ding, Selina Khan, Piera Riccio, Mina Ghadimiatigh   
+**Course Coordinators**: Nanne van Noord ([n.j.e.vannoord@uva.nl](mailto:n.j.e.vannoord@uva.nl)),  Piera Riccio ([p.riccio@uva.nl](mailto:p.riccio@uva.nl))  
+**Teaching Assistants**: Selina Khan 
 **Contact**: Please use the lab sessions for course-related questions. For private matters you can contact the course coordinator or a TA.
 
 # Course Content & Objectives
@@ -20,29 +20,21 @@ This course is centered around the role of humans in all stages of ML and AI sys
 
 # Assessment
 
-The assessment for this course is based on three elements: an assignment, an exam, and the final project. The final grade will be based on a weighted average of these elements, with the additional requirement that the exam and project also receive a passing grade (higher than 5.5) individually.
+The assessment for this course is based on two elements: an exam, and the group project. The final grade will be based on a weighted average of these elements, with the additional requirement that both receive a passing grade (higher than 5.5) individually.
 
-All assignments and the final project will be done in groups of 3-4 students (the group size will not be taken into account for grading in case of deviation). In addition to the shared grade, individual contributions will be taken into account for grading.
+The project will be done in groups of 5 students (the group size will not be taken into account for grading in case of deviation). In addition to the shared grade, individual contributions will be taken into account for grading.
 
-## Assignment (20%): Panel Discussion
-
-During the lab session of November 7th (group 1-9) or November 14th (group 10-18) you and your group will be expected to engage in a panel discussion with two other groups. 
-
-Note: you are expected to be present for the entire lab session your group is scheduled in, not doing so may impact your grade.
-
-**Objective**: The aim of the discussion is to critically analyse an ML research paper through a specific human-centred lens. This exercise will involve identifying the paper's consideration of human factors, potential ethical implications, and limitations related to human interaction with the proposed ML system.
-
-## Exam (40%)
+## Exam (50%)
 
 Mix of technical knowledge and judging/discussing human-centred aspects
 
-## Course Project (40%)
+## Course Project (50%)
 
-Deadline: December 12, 2025 EOD
+Deadline: December 11, 2026 EOD
 
 **Objective:**
 
-This project challenges you to explore the practical application of human-centred ML (HCML) techniques. With your group you will choose a research topic related to HCML and design an experiment to evaluate the effectiveness of a chosen technique on a dataset. The focus will be on analysing the technique's performance and limitations from a human-centred perspective, considering its potential impact from an AI, ethical, and social-good perspective. As well as consideration of the evaluation through a user study, which will involve defining user personas, selecting appropriate evaluation methods, and considering factors like user needs, usability, and potential bias.
+TBD
 
 The grade of the project will be based on a presentation and an oral evaluation.
 
