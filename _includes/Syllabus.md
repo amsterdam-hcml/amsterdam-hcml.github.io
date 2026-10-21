@@ -1,10 +1,9 @@
 # Human-Centred Machine Learning
 
-**Academic Year**: 2026-2027
-**Course catalogue number**: 5204HCML6Y   
+**Academic Year**: 2026-2027 **Course catalogue number**: 5204HCML6Y  
 **Course Coordinators**: Nanne van Noord ([n.j.e.vannoord@uva.nl](mailto:n.j.e.vannoord@uva.nl)),  Piera Riccio ([p.riccio@uva.nl](mailto:p.riccio@uva.nl))  
-**Teaching Assistants**: Selina Khan 
-**Contact**: Please use the lab sessions for course-related questions. For private matters you can contact the course coordinator or a TA.
+**Teaching Assistants**: Selina Khan, Teresa Liberatore, Yahia Dalbah   
+**Contact**: Please use the lab sessions for course-related questions. For private matters you can contact the course coordinators or a TA.
 
 # Course Content & Objectives
 
@@ -12,17 +11,17 @@ The ultimate goal of machine learning (ML) and AI is often considered to be that
 
 This course is centered around the role of humans in all stages of ML and AI systems, including discussion of techniques for integrating human intelligence and methods for designing systems centered on humans. Topics addressed in the course include: ethics in AI, crowdsourcing, machine teaching, learning from human feedback, and human-centered evaluation.
 
-- The student can understand key concepts in human-centred data work (e.g. evaluation, annotation, crowdsourcing).
-- The student can understand techniques for building systems that adapt to human feedback ((inter)active learning, RLHF, machine teaching).
-- The student can analyse a given intelligent system to identify sub-components that can be improved for humans.
-- The student can evaluate the performance of a hybrid human-AI system and identify sub-components in need of improvement.
+- The student can understand key concepts in human-centred data work (e.g. evaluation, annotation, crowdsourcing).  
+- The student can understand techniques for building systems that adapt to human feedback ((inter)active learning, RLHF, machine teaching).  
+- The student can analyse a given intelligent system to identify sub-components that can be improved for humans.  
+- The student can evaluate the performance of a hybrid human-AI system and identify sub-components in need of improvement.  
 - The student can create a human-centred AI system that effectively solves a problem of practical consequence.
 
 # Assessment
 
 The assessment for this course is based on two elements: an exam, and the group project. The final grade will be based on a weighted average of these elements, with the additional requirement that both receive a passing grade (higher than 5.5) individually.
 
-The project will be done in groups of 5 students (the group size will not be taken into account for grading in case of deviation). In addition to the shared grade, individual contributions will be taken into account for grading.
+The project will be done in groups of 5 students (the group size will not be taken into account for grading in case of deviation). In addition to the shared grade, individual contribution (including attendance) may be taken into account for grading.
 
 ## Exam (50%)
 
@@ -30,13 +29,11 @@ Mix of technical knowledge and judging/discussing human-centred aspects
 
 ## Course Project (50%)
 
-Deadline: December 11, 2026 EOD
+Deadline: December 10, 2026 EOD
 
-**Objective:**
+Information concerning the project can be found in the Project Description.
 
-TBD
-
-The grade of the project will be based on a presentation and an oral evaluation.
+The grade of the project will be based on a written report, presentation, and an oral evaluation.
 
 # Late Submission
 
@@ -56,6 +53,6 @@ All information on what the UvA considers plagiarism and the procedures involved
 
 ## Social Safety
 
-The University of Amsterdam (UvA) is committed to fostering a positive working and study environment where interactions are respectful, no one feels unsafe, and everyone has the opportunity to develop their talents. We aim to ensure that everyone has a secure foundation for work or study, including when difficult or critical conversations are necessary. 
+The University of Amsterdam (UvA) is committed to fostering a positive working and study environment where interactions are respectful, no one feels unsafe, and everyone has the opportunity to develop their talents. We aim to ensure that everyone has a secure foundation for work or study, including when difficult or critical conversations are necessary.
 
-If needed, you can report inappropriate behaviour to instructors, academic advisors, the Program Director, and/or confidential advisors. For more information, the Code of Conduct, and the various services available to students, please visit the UvA's [Social Safety page](https://www.uva.nl/en/about-the-uva/about-the-university/social-safety/social-safety.html).  
+If needed, you can report inappropriate behaviour to instructors, academic advisors, the Program Director, and/or confidential advisors. For more information, the Code of Conduct, and the various services available to students, please visit the UvA's [Social Safety page](https://www.uva.nl/en/about-the-uva/about-the-university/social-safety/social-safety.html).
