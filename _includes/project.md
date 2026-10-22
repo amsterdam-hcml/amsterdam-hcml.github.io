@@ -137,7 +137,7 @@ At the end of the abstract include a link to a Github repository with the releva
 
 Each group gives three presentations during the project. Every team contributes, and the presentation should reflect the project as a whole rather than four separate reports.
 
-#### Week 3: Topic and approach (November 13\) \[Duration: 20 minutes \+ 10 minutes Q\&A per group\]
+#### Week 3: Topic and approach (November 13\) \[Duration: 20 minutes \+ 10 minutes Q&A per group\]
 
 Introduce your assigned topic and explain how your group plans to approach it. Cover:
 
@@ -148,7 +148,7 @@ Introduce your assigned topic and explain how your group plans to approach it. C
 
 The aim is to get early feedback on your direction, so present open questions and choices you are unsure about.
 
-#### Week 5: Progress (November 27\) \[Duration: 20 minutes \+ 10 minutes Q\&A per group\]
+#### Week 5: Progress (November 27\) \[Duration: 20 minutes \+ 10 minutes Q&A per group\]
 
 Show where the project stands and what you have learned so far. Cover:
 
@@ -169,9 +169,9 @@ On behalf of the whole team present the full project and its outcomes, not every
 
 **The slidedeck for the final presentation should be submitted on Canvas December 14, EOD**.
 
-##### Team discussions \[Duration: 20 minute \+ 10 minutes Q\&A per team\]
+### Team discussions \[Duration: 20 minute \+ 10 minutes Q\&A per team\]
 
-Following the presentations, we will have a discussion between each of the two teams of the groups. In the following order:
+Following the final presentations, we will have a discussion between each of the two teams of the groups. In the following order:
 
 1. Stakeholders  
 2. Auditors  
