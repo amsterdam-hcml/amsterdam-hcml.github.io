@@ -1,6 +1,6 @@
 | W | Date | Topic | Readings |
 | :---- | :---- | :---- | :---- |
-| 1 | 27 Oct | [Introduction Human Centred ML](https://docs.google.com/presentation/d/1q5RSbUM36Tzx60sogrrzafkZCkVfEY8wdxH-ABnQ33M/edit?usp=sharing) | [Human-Centered AI and ML by Mark O. Riedl.](https://arxiv.org/abs/1901.11184)  |
+| 1 | 27 Oct | [Introduction Human Centred ML](https://docs.google.com/presentation/d/1vzpxP8EmXczdcnRwkItzhi-Nf6QLgTre840SxhIAbFo/edit?usp=drive_link) | [Human-Centered AI and ML by Mark O. Riedl.](https://arxiv.org/abs/1901.11184)  |
 | 1 | 30 Oct | Values in ML <br/> * Guest lecture by Giovanni Sileno | {::nomarkdown}<ul><li>{:/}[The Values Encoded in Machine Learning Research by Abeba Birhane et al.](https://dl.acm.org/doi/abs/10.1145/3531146.3533083){::nomarkdown}</li><li>{:/}[Chapter 1 of Data Feminism by Catherine D'Ignazio and Lauren F. Klein](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4){::nomarkdown}</li><li>{:/}[Between Hammer and Terminator by Giovanni Sileno and Tomasz Zurek](https://gsileno.net/articles/ALP2023.pdf){::nomarkdown}</li></ul>{:/} |
 | 2 | 3 Nov | Benchmarking | [Targeting the Benchmark by David Schlangen](https://arxiv.org/abs/2007.04792)   |
 | 2 | 6 Nov | Human-Centred Evaluation | [Towards Better User Studies in Computer Graphics and Vision by Zoya Bylinskii et al.](https://arxiv.org/abs/2206.11461)  |
