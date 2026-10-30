@@ -200,6 +200,8 @@ The report will be evaluated based on:
   * Integrators: Experimental design (20%)  
   * Evaluators: Validity of the human evaluation (20%)
 
+Full report rubric: [Canvas](https://canvas.uva.nl/courses/59847/files/16241043?module_item_id=3085418)
+
 The presentations will be evaluated based on: 
 
 * Presentation of content and understanding (30%)  
@@ -207,9 +209,13 @@ The presentations will be evaluated based on:
 * Clarity and delivery (20%)  
 * Responses to questions (20%)
 
+Full presentation rubric: [Canvas](https://canvas.uva.nl/courses/59847/files/16241045?module_item_id=3085419)
+
 The discussions will be evaluated based on:
 
 * Clarity and accuracy of group’s discussion contributions (40%)  
 * Critical Reflection and Insight (30%)  
 * Professionalism and Collegiality (15%)  
 * Active participation in discussion (15%)
+
+Full discussion rubric: [Canvas](https://canvas.uva.nl/courses/59847/files/16241047?module_item_id=3085420)
