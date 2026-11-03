@@ -3,17 +3,23 @@ title:          Human-Centred Machine Learning
 description:    "University of Amsterdam Human-Centred Machine Learning Course"
 url:            "https://amsterdam-hcml.github.io"
 
-# Google Analytics
-#google_analytics: UA—XXXXXXXX-X
-
 # Author
 author:
   name:         Nanne van Noord
   url:          https://nanne.github.io
   email:        n.j.e.vannoord@uva.nl
 
+# Course details, used across the pages
+course:
+  canvas_id:             59847
+  report_deadline:       "December 10, 2026"
+  presentation_deadline: "December 14, 2026"
+
 # Build settings
+theme:          null # all theme files live in this repo; stops GitHub Pages adding its default theme
 markdown:       kramdown
+kramdown:
+  toc_levels:   2..3
 include:
   - _pages
 
@@ -22,20 +28,5 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
-# Gems
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
-  # - jemoji #Uncomment this to allow emoji in your post
-
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
-
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-#disqus:         jekyll-tale
-
-remote_theme: chesterhow/tale
+exclude: [ Gemfile, Gemfile.lock ]

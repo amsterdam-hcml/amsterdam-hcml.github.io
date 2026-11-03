@@ -46,19 +46,23 @@ footer,
   }
 
   li {
-    @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .6;
     padding: 0 1rem 0 0;
 
     &:last-child {
       padding-right: 0;
     }
 
-    &:hover,
-    &:focus {
-      opacity: 1;
+    a {
+      @include transition(all .2s ease-out);
+      opacity: .6;
+
+      &:hover,
+      &:focus,
+      &[aria-current] {
+        opacity: 1;
+      }
     }
   }
 
@@ -98,5 +102,50 @@ footer {
   span {
     color: $default-color;
     font-size: .8rem;
+  }
+}
+
+@media print {
+  .nav,
+  footer .catalogue-item {
+    display: none;
+  }
+
+  html,
+  body,
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: #000;
+  }
+
+  main,
+  footer {
+    max-width: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  // Show where links go, except in the schedule where the URLs would swamp the cells
+  main a[href^="http"]::after {
+    content: ' (' attr(href) ')';
+    font-size: .8em;
+    word-break: break-all;
+  }
+
+  #schedule a[href^="http"]::after {
+    content: none;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    break-after: avoid;
+  }
+
+  tr {
+    break-inside: avoid;
   }
 }

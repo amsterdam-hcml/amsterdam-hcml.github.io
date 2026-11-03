@@ -1,9 +1,15 @@
+{::options toc_levels="1..2" /}
+
 # Human-Centred Machine Learning
+{:.no_toc}
 
 **Academic Year**: 2026-2027 **Course catalogue number**: 5204HCML6Y  
 **Course Coordinators**: Nanne van Noord ([n.j.e.vannoord@uva.nl](mailto:n.j.e.vannoord@uva.nl)),  Piera Riccio ([p.riccio@uva.nl](mailto:p.riccio@uva.nl))  
 **Teaching Assistants**: Selina Khan, Teresa Liberatore, Yahia Dalbah   
 **Contact**: Please use the lab sessions for course-related questions. For private matters you can contact the course coordinators or a TA.
+
+* TOC
+{:toc}
 
 # Course Content & Objectives
 
@@ -29,7 +35,7 @@ Mix of technical knowledge and judging/discussing human-centred aspects
 
 ## Course Project (50%)
 
-Deadline: December 10, 2026 EOD
+Deadline: {{ site.course.report_deadline }} EOD
 
 Information concerning the project can be found in the Project Description.
 

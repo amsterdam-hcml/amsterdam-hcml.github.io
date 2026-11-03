@@ -1,0 +1,141 @@
+# Course schedule, rendered on the home page by _includes/schedule.html.
+#
+# Fields per lecture:
+#   week, date, topic       required
+#   slides                  optional link for the topic
+#   sub, sub_url            optional second line under the topic (e.g. a guest lecture), optionally linked
+#   readings                optional list; each reading has a title and optionally
+#                           url, label (text before the link) and note (text after the link).
+#                           A reading without url is shown as plain text (e.g. TBA).
+
+- week: 1
+  date: 27 Oct
+  topic: Introduction Human Centred ML
+  slides: https://docs.google.com/presentation/d/1vzpxP8EmXczdcnRwkItzhi-Nf6QLgTre840SxhIAbFo/edit?usp=drive_link
+  readings:
+    - title: "Human-Centered AI and ML by Mark O. Riedl."
+      url: https://arxiv.org/abs/1901.11184
+
+- week: 1
+  date: 30 Oct
+  topic: Values in ML
+  slides: https://docs.google.com/presentation/d/1s78OdSpfa0JqA17zJzWyXZYoXHgtulDKhYQh4PZYel4/edit?usp=drive_link
+  sub: "* Guest lecture by Giovanni Sileno"
+  sub_url: ./assets/Ethics%20for%20AI%20developers_%20a%20crash%20course%202026_2027.pdf
+  readings:
+    - title: "The Values Encoded in Machine Learning Research by Abeba Birhane et al."
+      url: https://dl.acm.org/doi/abs/10.1145/3531146.3533083
+    - title: "Chapter 1 of Data Feminism by Catherine D'Ignazio and Lauren F. Klein"
+      url: https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4
+    - title: "Between Hammer and Terminator by Giovanni Sileno and Tomasz Zurek"
+      url: https://gsileno.net/articles/ALP2023.pdf
+    - title: "A Crash Guide on Ethics for AI Developers"
+      url: ./assets/ethics_for_developers.pdf
+
+- week: 2
+  date: 3 Nov
+  topic: Benchmarking
+  slides: https://docs.google.com/presentation/d/1Lyw-H7cd5CPQ_F9JdbbQ-BLspIVFqSvOaHSaS4iMhBA/edit?usp=drive_link
+  readings:
+    - title: "Targeting the Benchmark by David Schlangen"
+      url: https://arxiv.org/abs/2007.04792
+
+- week: 2
+  date: 6 Nov
+  topic: Human-Centred Evaluation
+  readings:
+    - title: "Towards Better User Studies in Computer Graphics and Vision by Zoya Bylinskii et al."
+      url: https://arxiv.org/abs/2206.11461
+
+- week: 3
+  date: 10 Nov
+  topic: User-Centred Design
+  sub: "* Guest lecture by Katja Rogers"
+  readings:
+    - title: "Guidelines for Human-AI Interaction by Amershi et al."
+      url: https://dl.acm.org/doi/10.1145/3290605.3300233
+
+- week: 3
+  date: 13 Nov
+  topic: Participatory Methods
+  readings:
+    - title: TBA
+
+- week: 4
+  date: 17 Nov
+  topic: Consensus Aggregation + Machine Teaching
+  readings:
+    - title: "Maximum Likelihood Estimation of Observer Error-rates using the EM Algorithm by Dawid and Skene"
+      url: https://www.jstor.org/stable/2346806
+    - title: "DATACOMP by Samir Yitzhak Gadre et al."
+      url: https://arxiv.org/pdf/2304.14108
+    - title: "Machine Teaching by Xiaojin Zhu"
+      url: https://ojs.aaai.org/index.php/AAAI/article/view/9761
+
+- week: 4
+  date: 20 Nov
+  topic: Active Learning
+  sub: "* Guest lecture by Marcel Worring"
+  readings:
+    - title: "Human-Centered Machine Learning Through Interactive Visualization by Dominik Sacha et al."
+      url: https://www.esann.org/sites/default/files/proceedings/legacy/es2016-166.pdf
+    - title: "Human-in-the-loop machine learning: a state of the art by Eduardo Mosqueira-Rey et al."
+      url: https://link.springer.com/article/10.1007/s10462-022-10246-w
+    - title: "Active Learning Literature Survey by Burr Settles"
+      url: https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1
+
+- week: 5
+  date: 24 Nov
+  topic: Human Feedback
+  readings:
+    - title: "A Survey of Preference-Based Reinforcement Learning Methods by Christian Wirth et al."
+      url: https://jmlr.org/papers/v18/16-634.html
+
+- week: 5
+  date: 27 Nov
+  topic: Preference Tuning
+  readings:
+    - title: "Direct preference optimization: your language model is secretly a reward model by Rafael Rafailov et al."
+      url: https://dl.acm.org/doi/10.5555/3666122.3668460
+
+- week: 6
+  date: 1 Dec
+  topic: Legal Frameworks for AI
+  sub: "* Guest lectures by Sanne Vrijenhoek and Ljubiša Metikoš"
+  readings:
+    - title: TBA
+
+- week: 6
+  date: 4 Dec
+  topic: Values in Data
+  sub: "* Guest lecture by Gabriel Pereira"
+  readings:
+    - label: "Required reading:"
+      title: "Fairwork Cloudwork Ratings 2025"
+      url: https://fair.work/wp-content/uploads/sites/17/2025/05/Fairwork-Cloudwork-Report-2025-FINAL.pdf
+      note: "(at least introduction + p. 12-16 + worker stories)"
+    - label: "Required watching:"
+      title: "Life of a Latin American Data Worker"
+      url: https://data-workers.org/oskarina/
+    - label: "Required browsing:"
+      title: "Cunyan Ma. Power Mapping AI’s Materiality: the Data Annotation and Labeling Industry."
+      url: https://www.ai-materiality-map.org/data-workers/
+    - label: "Optional reading:"
+      title: "Chapter 4 of Data Feminism by Catherine D'Ignazio and Lauren F. Klein"
+      url: https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3
+
+- week: 7
+  date: 8 Dec
+  topic: ML for social good
+  sub: "+ exam review"
+  readings:
+    - title: "Introduction chapter of AI for Social Impact"
+      url: https://ai4sibook.org/
+
+- week: 8
+  date: 15 Dec
+  topic: Project Presentations
+
+- week: 8
+  date: 18 Dec
+  topic: Exam

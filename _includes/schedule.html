@@ -1,0 +1,33 @@
+<table>
+  <thead>
+    <tr>
+      <th>W</th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Readings</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for lecture in site.data.schedule %}
+    <tr>
+      <td>{{ lecture.week }}</td>
+      <td>{{ lecture.date }}</td>
+      <td>
+        {%- if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.topic }}</a>{% else %}{{ lecture.topic }}{% endif -%}
+        {%- if lecture.sub %}<br>{% if lecture.sub_url %}<a href="{{ lecture.sub_url }}">{{ lecture.sub }}</a>{% else %}{{ lecture.sub }}{% endif %}{% endif -%}
+      </td>
+      <td>
+        {%- if lecture.readings.size > 1 %}<ul>{% endif -%}
+        {%- for reading in lecture.readings -%}
+          {%- if lecture.readings.size > 1 %}<li>{% endif -%}
+          {%- if reading.label %}{{ reading.label }} {% endif -%}
+          {%- if reading.url %}<a href="{{ reading.url }}">{{ reading.title }}</a>{% else %}{{ reading.title }}{% endif -%}
+          {%- if reading.note %} {{ reading.note }}{% endif -%}
+          {%- if lecture.readings.size > 1 %}</li>{% endif -%}
+        {%- endfor -%}
+        {%- if lecture.readings.size > 1 %}</ul>{% endif -%}
+      </td>
+    </tr>
+    {%- endfor %}
+  </tbody>
+</table>

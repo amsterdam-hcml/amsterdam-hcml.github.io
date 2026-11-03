@@ -19,8 +19,7 @@ title: Human-Centred Machine Learning
   <h1 class="catalogue-title">Schedule</h1>
   <div class="catalogue-line"></div>
   <p>Schedule is not definitive and may change.</p>
-  {% capture s1 %}{% include schedule.md %}{% endcapture %}
-  {{ s1 | markdownify }}
+  {% include schedule.html %}
 </div>
 
 <div class="catalogue-item" id="deadlines">
@@ -28,7 +27,7 @@ title: Human-Centred Machine Learning
   <div class="catalogue-line"></div>
 
   <ul>
-    <li><a href="./project">Project</a> due December 10</li>
+    <li><a href="./project">Project</a> report due {{ site.course.report_deadline }}, presentation due {{ site.course.presentation_deadline }}</li>
   </ul>
 </div>
 
@@ -37,7 +36,7 @@ title: Human-Centred Machine Learning
   <div class="catalogue-line"></div>
 
   <p>
-    Students can use the <a href="https://canvas.uva.nl/courses/59847/discussion_topics" target="_blank">Canvas discussion board</a> or the lab sessions for course-related questions. 
+    Students can use the <a href="https://canvas.uva.nl/courses/{{ site.course.canvas_id }}/discussion_topics">Canvas discussion board</a> or the lab sessions for course-related questions. 
     
     For private/other matters you can contact the course coordinator Nanne van Noord (<a href="mailto:n.j.e.vannoord@uva.nl">n.j.e.vannoord@uva.nl</a>)
   </p>

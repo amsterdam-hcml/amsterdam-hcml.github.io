@@ -1,14 +1,18 @@
 # Project
+{:.no_toc}
 
-**Report submission deadline: December 10, 2026 EOD.**  
-**Presentation submission deadline: December 14, EOD**.
+**Report submission deadline: {{ site.course.report_deadline }} EOD.**  
+**Presentation submission deadline: {{ site.course.presentation_deadline }} EOD**.
+
+* TOC
+{:toc}
 
 **Objective:**  
 This project challenges you to put human-centred ML (HCML) into practice. With your group you will choose a research topic related to HCML and design an experiment to evaluate the effectiveness of an intervention in that context. The project involves understanding the problem space, evaluating appropriate baselines, designing an intervention, and performing human evaluation whilst keeping in mind a human-centred perspective, considering potential impacts from an AI, ethical, and social-good perspective.
 
 The grade of the project will be based on a written report, presentation, and an oral evaluation.
 
-## Project Setup:
+## Project Setup
 
 A key part of a human-centred approach concerns navigating and taking into account a wide variety of beliefs, priorities, and interests. To put this into practice, the entire class will be divided into two groups, each working on a project. To structure the work for a setup with such large groups, we define four teams per group, each consisting of 5-6 students:
 
@@ -23,7 +27,7 @@ A key part of a human-centred approach concerns navigating and taking into accou
 
 During the first week of the course students will be, based on their input, assigned to a group and a team. Further details on what is expected from each team are provided below.
 
-### 1\. **Stakeholders**
+### 1. Stakeholders
 
 Each group is assigned a topic and dataset. As Stakeholders, you turn this into a concrete project: you decide what matters, to whom, and how the group will know whether it succeeded. You also keep the project coherent across the four teams.
 
@@ -34,7 +38,7 @@ Each group is assigned a topic and dataset. As Stakeholders, you turn this into 
 
 **Team specific deliverables**: abstract, introduction, related work, and paper checklist sections of the report.
 
-### 2\. **Auditors**
+### 2. Auditors
 
 The auditors establish the quantitative reference point for the project and act as its internal critic. Their role is to question whether the system, and the project itself, actually serve the stakeholders.
 
@@ -53,7 +57,7 @@ Discuss the potential social impact of your chosen HCML technique within the con
 
 **Team specific deliverables**: the data description, results (excluding the Integrators results), and discussion sections of the report.
 
-### 3\. **Integrators**
+### 3. Integrators
 
 Select a human-centred technique that aligns with your project’s ambitions and the Stakeholders’ requirements. Examples include active learning, interactive or human-in-the-loop learning, learning from human feedback or preferences, learning to defer to humans, and fairness-aware learning. Justify your choice based on the requirements and the literature.
 
@@ -69,7 +73,7 @@ Report negative or mixed results honestly. A well-documented intervention that d
 
 **Team specific deliverables**: methodology and results (complementing the parts done by the Auditors) sections of the report.
 
-### 4\. **Evaluators**
+### 4. Evaluators
 
 You are tasked with designing a user study that uses human evaluation to assess the performance of the proposed system as compared against existing baselines. This will involve defining user personas, selecting appropriate evaluation methods, and considering factors like user needs, usability, and potential biases. To avoid depending on other groups, you may (and probably should) design and test the human evaluation first using a simulated (i.e., [Wizard of Oz](https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment)) setup.
 
@@ -99,7 +103,7 @@ As part of the human evaluation design you should:
 
 **Team specific deliverables**: human evaluation and conclusion sections of the report.
 
-## **Deliverables:**
+## Deliverables
 
 ### Report
 
@@ -131,7 +135,7 @@ Expected sections in the paper are:
 
 At the end of the abstract include a link to a Github repository with the relevant code from the project.
 
-**Submission deadline: December 10, 2026 EOD**
+**Submission deadline: {{ site.course.report_deadline }} EOD**
 
 ### Presentations
 
@@ -167,9 +171,9 @@ On behalf of the whole team present the full project and its outcomes, not every
 - **Requirements check:** To what extent the requirements are met, and how you know.  
 - **Reflection:** Limitations, social impact, and what you would do differently.
 
-**The slidedeck for the final presentation should be submitted on Canvas December 14, EOD**.
+**The slidedeck for the final presentation should be submitted on Canvas {{ site.course.presentation_deadline }} EOD**.
 
-### Team discussions \[Duration: 20 minute \+ 10 minutes Q\&A per team\]
+### Team discussions \[Duration: 20 minute \+ 10 minutes Q&A per team\]
 
 Following the final presentations, we will have a discussion between each of the two teams of the groups. In the following order:
 
@@ -178,13 +182,13 @@ Following the final presentations, we will have a discussion between each of the
 3. Integrators  
 4. Evaluators
 
-Each discussion will involve 20 minutes of discussion between the teams, followed by 10 minutes Q\&A led by the course lecturers. During the discussion:
+Each discussion will involve 20 minutes of discussion between the teams, followed by 10 minutes Q&A led by the course lecturers. During the discussion:
 
 - Respond to other teams' observations and results by questioning or supporting their findings  
 - Ensure everyone in the team contributes  
 - You cannot "win" this discussion \- the goal is to jointly understand both projects better.
 
-## **Grading:**
+## Grading
 
 The project grade is composed of three components: Report (35%), Presentation (35%), Discussion (30%), together the project makes up 50% of the course grade.
 
@@ -200,7 +204,7 @@ The report will be evaluated based on:
   * Integrators: Experimental design (20%)  
   * Evaluators: Validity of the human evaluation (20%)
 
-Full report rubric: [Canvas](https://canvas.uva.nl/courses/59847/files/16241043?module_item_id=3085418)
+Full report rubric: [Canvas](https://canvas.uva.nl/courses/{{ site.course.canvas_id }}/files/16241043?module_item_id=3085418)
 
 The presentations will be evaluated based on: 
 
@@ -209,7 +213,7 @@ The presentations will be evaluated based on:
 * Clarity and delivery (20%)  
 * Responses to questions (20%)
 
-Full presentation rubric: [Canvas](https://canvas.uva.nl/courses/59847/files/16241045?module_item_id=3085419)
+Full presentation rubric: [Canvas](https://canvas.uva.nl/courses/{{ site.course.canvas_id }}/files/16241045?module_item_id=3085419)
 
 The discussions will be evaluated based on:
 
@@ -218,4 +222,4 @@ The discussions will be evaluated based on:
 * Professionalism and Collegiality (15%)  
 * Active participation in discussion (15%)
 
-Full discussion rubric: [Canvas](https://canvas.uva.nl/courses/59847/files/16241047?module_item_id=3085420)
+Full discussion rubric: [Canvas](https://canvas.uva.nl/courses/{{ site.course.canvas_id }}/files/16241047?module_item_id=3085420)
