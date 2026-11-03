@@ -12,8 +12,9 @@ body {
 
 html {
   font-family: $serif-primary;
-  font-size: 14px;
+  font-size: 15px;
   overflow-y: scroll;
+  scroll-padding-top: 1rem;
 
   @media (min-width: 600px) {
     font-size: 16px;
@@ -22,6 +23,7 @@ html {
 
 body {
   -webkit-text-size-adjust: 100%;
+  overflow-wrap: break-word;
 }
 
 h1,
@@ -38,6 +40,26 @@ h6 {
 a {
   color: $blue;
   text-decoration: none;
+
+  &:focus-visible {
+    outline: 2px solid $blue;
+    outline-offset: 2px;
+  }
+}
+
+// Underline links in running text so they stand out from body copy
+main p a,
+main li a,
+main td a {
+  text-decoration: underline;
+  text-decoration-color: rgba($blue, .4);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+
+  &:hover,
+  &:focus {
+    text-decoration-color: $blue;
+  }
 }
 
 blockquote {
@@ -59,8 +81,4 @@ img {
   display: block;
   margin: 0 0 1rem;
   max-width: 100%;
-}
-
-td {
-  vertical-align: top;
 }

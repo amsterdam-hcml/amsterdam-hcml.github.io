@@ -24,8 +24,8 @@ sass:
 
 # Gems
 plugins:
-  - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
@@ -39,10 +39,3 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 #disqus:         jekyll-tale
 
 remote_theme: chesterhow/tale
-
-permalink:    /:year-:month-:day/:title
-paginate:     5
-
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme

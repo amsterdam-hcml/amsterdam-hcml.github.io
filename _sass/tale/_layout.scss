@@ -1,16 +1,18 @@
-.container {
-  margin: 0 auto;
-  max-width: 1024px;
-  width: 80%;
-}
-
+.container,
 main,
 footer,
 .nav-container {
   display: block;
   margin: 0 auto;
-  max-width: 1024px;
-  width: 80%;
+  max-width: calc(1024px + 4rem); // 1024px of content plus side padding
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
+
+  @media (min-width: 600px) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .nav {
@@ -48,7 +50,7 @@ footer,
     color: $default-color;
     display: inline-block;
     opacity: .6;
-    padding: 0 2rem 0 0;
+    padding: 0 1rem 0 0;
 
     &:last-child {
       padding-right: 0;
@@ -69,20 +71,28 @@ footer,
 @media (min-width: 600px) {
   .nav {
     &-container {
+      align-items: baseline;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem 2rem;
+      justify-content: space-between;
       text-align: left;
     }
 
     ul {
-      bottom: 0;
-      position: absolute;
-      right: 0;
+      margin: 0;
+    }
+
+    li {
+      padding-right: 2rem;
     }
   }
 }
 
 footer {
   font-family: $serif-secondary;
-  padding: 2rem 0;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
   text-align: center;
 
   span {
