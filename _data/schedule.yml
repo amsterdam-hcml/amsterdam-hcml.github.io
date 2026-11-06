@@ -43,6 +43,7 @@
 - week: 2
   date: 6 Nov
   topic: Human-Centred Evaluation
+  slides: https://docs.google.com/presentation/d/1K3HpSnxXOnc1VHTsMjghTO5PN3LRcepaWP5lb-woGTY/edit?usp=drive_link
   readings:
     - title: "Towards Better User Studies in Computer Graphics and Vision by Zoya Bylinskii et al."
       url: https://arxiv.org/abs/2206.11461
