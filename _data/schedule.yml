@@ -51,7 +51,9 @@
 - week: 3
   date: 10 Nov
   topic: User-Centred Design
+  slides: https://docs.google.com/presentation/d/14ZImf5eD3tl-wrzeXCWn71xZAv8unukkJZroAhzhmcY/edit?usp=drive_link
   sub: "* Guest lecture by Katja Rogers"
+  sub_url: ./assets/HCML-user-centered-design-2026.pdf
   readings:
     - title: "Guidelines for Human-AI Interaction by Amershi et al."
       url: https://dl.acm.org/doi/10.1145/3290605.3300233
