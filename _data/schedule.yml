@@ -61,8 +61,10 @@
 - week: 3
   date: 13 Nov
   topic: Participatory Methods
+  slides: https://docs.google.com/presentation/d/1SAgPa9z6AXNLloFc0gwNkCKZ28D9SGD1dxJfZPpETUg/edit?usp=sharing
   readings:
-    - title: TBA
+    - title: "Power to the People? Opportunities and Challenges for Participatory AI by Birhane et al."
+      url: https://dl.acm.org/doi/10.1145/3551624.3555290
 
 - week: 4
   date: 17 Nov
