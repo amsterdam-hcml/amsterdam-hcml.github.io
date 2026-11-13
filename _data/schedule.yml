@@ -65,6 +65,8 @@
   readings:
     - title: "Power to the People? Opportunities and Challenges for Participatory AI by Birhane et al."
       url: https://dl.acm.org/doi/10.1145/3551624.3555290
+    - title: "A roadmap to pluralistic alignment by Sorensen et al."
+      url: https://dl.acm.org/doi/10.5555/3692070.3693952
 
 - week: 4
   date: 17 Nov
