@@ -71,6 +71,7 @@
 - week: 4
   date: 17 Nov
   topic: Consensus Aggregation + Machine Teaching
+  slides: https://docs.google.com/presentation/d/1q6zOQ9bWh9rDeUcCVJprk6aLAxiHdrQiZyArtJvP4vc/edit?usp=drive_link
   readings:
     - title: "Maximum Likelihood Estimation of Observer Error-rates using the EM Algorithm by Dawid and Skene"
       url: https://www.jstor.org/stable/2346806
