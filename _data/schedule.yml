@@ -83,6 +83,7 @@
 - week: 4
   date: 20 Nov
   topic: Active Learning
+  slides: https://docs.google.com/presentation/d/18FfNsXqE9Rd43QWiotZfbFeDIK2B2r7HtO4FRH3TH5w/edit?usp=sharing
   sub: "* Guest lecture by Marcel Worring"
   readings:
     - title: "Human-Centered Machine Learning Through Interactive Visualization by Dominik Sacha et al."
