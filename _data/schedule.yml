@@ -97,6 +97,7 @@
 - week: 5
   date: 24 Nov
   topic: Human Feedback
+  slides: https://docs.google.com/presentation/d/11mOr-rb7WJGDGAMDsJ_Lpzdg84Injx1uqwGq8CHpar0/edit?usp=sharing
   readings:
     - title: "A Survey of Preference-Based Reinforcement Learning Methods by Christian Wirth et al."
       url: https://jmlr.org/papers/v18/16-634.html
