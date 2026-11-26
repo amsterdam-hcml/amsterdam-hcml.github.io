@@ -101,6 +101,8 @@
   readings:
     - title: "A Survey of Preference-Based Reinforcement Learning Methods by Christian Wirth et al."
       url: https://jmlr.org/papers/v18/16-634.html
+    - title: "Reinforcement Learning from Human Feedback book by Nathan Lambert"
+      url: https://rlhfbook.com/
 
 - week: 5
   date: 27 Nov
@@ -108,6 +110,8 @@
   readings:
     - title: "Direct preference optimization: your language model is secretly a reward model by Rafael Rafailov et al."
       url: https://dl.acm.org/doi/10.5555/3666122.3668460
+    - title: "Do Post-Training Algorithms Actually Differ? A Controlled Study Across Model Scales Uncovers Scale-Dependent Ranking Inversions by Xiaoyi Li"
+      url: https://arxiv.org/abs/2603.19335
 
 - week: 6
   date: 1 Dec
