@@ -107,6 +107,7 @@
 - week: 5
   date: 27 Nov
   topic: Preference Tuning
+  slides: https://docs.google.com/presentation/d/1M5xIXQc2Tt0yUCq-621Mxk3SE0_UGq23-DGP038VJ4I/edit?usp=sharing
   readings:
     - title: "Direct preference optimization: your language model is secretly a reward model by Rafael Rafailov et al."
       url: https://dl.acm.org/doi/10.5555/3666122.3668460
